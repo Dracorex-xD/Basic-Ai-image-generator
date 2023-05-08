@@ -1,0 +1,19 @@
+{
+  "name": "basic-ai-image-generator",
+  "version": "1.0.0",
+  "description": "a stepping stone for a billion dollar idea",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/zach/Documents/GitHub/Basic-Ai-image-generator"
+  },
+  "keywords": [
+    "AI",
+    "image"
+  ],
+  "author": "Zacharias_xD",
+  "license": "ISC"
+}
